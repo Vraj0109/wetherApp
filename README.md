@@ -5,4 +5,4 @@ Installation guide:
 4. npm install
 5. node app.js
 
-You can check live site at: https://my-wether-app.onrender.com
+You can check live site at: https://wether-app.onrender.com
